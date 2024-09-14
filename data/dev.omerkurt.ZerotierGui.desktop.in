@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=zerotiergui
+Exec=zerotiergui
+Icon=dev.omerkurt.ZerotierGui
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

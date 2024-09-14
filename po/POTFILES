@@ -1,0 +1,6 @@
+data/dev.omerkurt.ZerotierGui.desktop.in
+data/dev.omerkurt.ZerotierGui.metainfo.xml.in
+data/dev.omerkurt.ZerotierGui.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
